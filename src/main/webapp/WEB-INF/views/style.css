@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+.font{
+	font-size: 8pt;
+	font-color: blue;
+}
